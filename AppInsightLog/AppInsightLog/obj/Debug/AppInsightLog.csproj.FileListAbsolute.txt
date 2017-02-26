@@ -1,0 +1,13 @@
+c:\users\maik.vandergaag\documents\visual studio 2015\Projects\AppInsightLog\AppInsightLog\bin\Debug\AppInsightLog.exe.config
+c:\users\maik.vandergaag\documents\visual studio 2015\Projects\AppInsightLog\AppInsightLog\bin\Debug\AppInsightLog.exe
+c:\users\maik.vandergaag\documents\visual studio 2015\Projects\AppInsightLog\AppInsightLog\bin\Debug\AppInsightLog.pdb
+c:\users\maik.vandergaag\documents\visual studio 2015\Projects\AppInsightLog\AppInsightLog\bin\Debug\Microsoft.ApplicationInsights.dll
+c:\users\maik.vandergaag\documents\visual studio 2015\Projects\AppInsightLog\AppInsightLog\bin\Debug\Microsoft.ApplicationInsights.TraceListener.dll
+c:\users\maik.vandergaag\documents\visual studio 2015\Projects\AppInsightLog\AppInsightLog\bin\Debug\Microsoft.ApplicationInsights.xml
+c:\users\maik.vandergaag\documents\visual studio 2015\Projects\AppInsightLog\AppInsightLog\bin\Debug\Microsoft.ApplicationInsights.TraceListener.xml
+c:\users\maik.vandergaag\documents\visual studio 2015\Projects\AppInsightLog\AppInsightLog\obj\Debug\AppInsightLog.csprojResolveAssemblyReference.cache
+c:\users\maik.vandergaag\documents\visual studio 2015\Projects\AppInsightLog\AppInsightLog\obj\Debug\AppInsightLog.exe
+c:\users\maik.vandergaag\documents\visual studio 2015\Projects\AppInsightLog\AppInsightLog\obj\Debug\AppInsightLog.pdb
+C:\Users\maik.vandergaag\Source\Repos\MSFT-TracingSample\AppInsightLog\AppInsightLog\bin\Debug\AppInsightLog.exe.config
+C:\Users\maik.vandergaag\Source\Repos\MSFT-TracingSample\AppInsightLog\AppInsightLog\obj\Debug\AppInsightLog.exe
+C:\Users\maik.vandergaag\Source\Repos\MSFT-TracingSample\AppInsightLog\AppInsightLog\obj\Debug\AppInsightLog.pdb
